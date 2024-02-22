@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=25&duration=3000&pause=200&color=275DF7&random=false&width=435&lines=Hi%2C+I'm+Lu%C3%ADs!;Fullstack+Developer)](https://git.io/typing-svg)
 
-- 📖 I’m currently learning Java, Spring Boot, SQL, Typescript and React.
+- 📖 I’m currently learning Java, Spring Boot and Go.
 - 💻 I'm looking for solving problems using technology.
 - 🚀 I'm interested in fullstack development, artificial intelligence and cybersecurity.
 - 📫 Reach me [here](https://www.linkedin.com/in/luisfelipesibim/)!
